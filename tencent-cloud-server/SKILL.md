@@ -1,3 +1,8 @@
+---
+name: tencent-cloud-server
+description: "连接腾讯云服务器，管理 OpenClash 和其他服务。当用户要求连接服务器、查看 OpenClaw 状态、管理代理时使用。"
+---
+
 # Tencent Cloud Server
 
 连接用户的腾讯云服务器，用于管理 OpenClash 和其他服务。
